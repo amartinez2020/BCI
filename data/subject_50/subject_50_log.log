@@ -1,0 +1,70 @@
+0.0002 	WARNING 	warning
+0.0003 	EXP 	experiment
+0.0003 	DATA 	data
+0.0003 	INFO 	info
+0.0003 	INFO 	eeg time: 1020.5529393
+0.0043 	INFO 	Loaded monitor calibration from ['2020_02_03 14:01']
+2.4181 	WARNING 	Couldn't measure a consistent frame rate.
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+2.4182 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color='black', colorSpace='named', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002430E2E6748>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002430E3419E8>, multiSample=False, name='window1', numSamples=2, pos=[880.0, 195.0], screen=0, size=array([1680, 1050]), stereo=False, units='deg', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+2.4183 	EXP 	window1: recordFrameIntervals = False
+2.4411 	EXP 	frame flip
+2.5847 	EXP 	window1: recordFrameIntervals = True
+2.6696 	DEBUG 	Screen (0) actual frame rate measured at 59.42
+2.6696 	EXP 	window1: recordFrameIntervals = True
+2.7739 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='lightGrey', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=2, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([211., 211., 211.]), text='+', units='deg', win=Window(...), wrapWidth=15.0)
+2.7784 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=2, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='REST', units='deg', win=Window(...), wrapWidth=15.0)
+2.7911 	EXP 	Created break_stimulus = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='break_stimulus', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='End of run. Press Spacebar to continue.', units='deg', win=Window(...), wrapWidth=15.0)
+2.7981 	EXP 	Created end_stimulus = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=1, italic=False, languageStyle='LTR', name='end_stimulus', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=array([1., 1., 1.]), text='End of Experiment! Press Spacebar to exit.', units='deg', win=Window(...), wrapWidth=15.0)
+3.0813 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+3.1237 	WARNING 	t of last frame was 454.26ms (=1/2)
+3.1237 	EXP 	fixation_cross: autoDraw = True
+3.2310 	WARNING 	t of last frame was 24.38ms (=1/41)
+3.3649 	WARNING 	t of last frame was 26.38ms (=1/37)
+3.4978 	WARNING 	t of last frame was 26.33ms (=1/37)
+3.6315 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+6.1112 	EXP 	fixation_cross: autoDraw = False
+6.1112 	EXP 	stimulus_image: autoDraw = True
+7.6082 	EXP 	stimulus_image: autoDraw = False
+7.6082 	EXP 	fixation_cross: autoDraw = True
+13.1094 	EXP 	fixation_cross: autoDraw = False
+16.1292 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+16.1366 	EXP 	fixation_cross: autoDraw = True
+19.1473 	EXP 	fixation_cross: autoDraw = False
+19.1473 	EXP 	stimulus_image: autoDraw = True
+20.6474 	EXP 	stimulus_image: autoDraw = False
+20.6474 	EXP 	fixation_cross: autoDraw = True
+26.1481 	EXP 	fixation_cross: autoDraw = False
+29.1614 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+29.1657 	EXP 	fixation_cross: autoDraw = True
+32.1863 	EXP 	fixation_cross: autoDraw = False
+32.1863 	EXP 	stimulus_image: autoDraw = True
+33.6847 	EXP 	stimulus_image: autoDraw = False
+33.6847 	EXP 	fixation_cross: autoDraw = True
+39.1874 	EXP 	fixation_cross: autoDraw = False
+42.2059 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+42.2095 	EXP 	fixation_cross: autoDraw = True
+45.2336 	EXP 	fixation_cross: autoDraw = False
+45.2336 	EXP 	stimulus_image: autoDraw = True
+46.7268 	EXP 	stimulus_image: autoDraw = False
+46.7268 	EXP 	fixation_cross: autoDraw = True
+52.2281 	EXP 	fixation_cross: autoDraw = False
+55.2754 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+55.2791 	EXP 	fixation_cross: autoDraw = True
+58.2955 	EXP 	fixation_cross: autoDraw = False
+58.2955 	EXP 	stimulus_image: autoDraw = True
+59.7998 	EXP 	stimulus_image: autoDraw = False
+59.7998 	EXP 	fixation_cross: autoDraw = True
+65.3086 	EXP 	fixation_cross: autoDraw = False
+68.3332 	EXP 	Created stimulus_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image=Image(...), interpolate=False, mask=None, maskParams=None, name='stimulus_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), texRes=128, units='deg', win=Window(...))
+68.3363 	EXP 	fixation_cross: autoDraw = True
+71.3612 	EXP 	fixation_cross: autoDraw = False
+71.3612 	EXP 	stimulus_image: autoDraw = True
+72.8711 	EXP 	stimulus_image: autoDraw = False
+72.8711 	EXP 	fixation_cross: autoDraw = True
+78.3566 	EXP 	fixation_cross: autoDraw = False
+81.3646 	EXP 	end_stimulus: autoDraw = True
+82.8587 	DATA 	Keypress: space
+83.3684 	EXP 	window1: mouseVisible = True

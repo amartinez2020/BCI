@@ -1,0 +1,7 @@
+,Subject,Run,Trial,Category,Image,Trial EEG Samples,Stim EEG Samples,Feature Vector
+0,subject_51,0,0,nav,Nav.jpg,,,
+1,subject_51,0,1,hand,hand_squeeze.png,,,
+2,subject_51,0,2,word,Letter.png,,,
+3,subject_51,0,3,sub,Subtraction.png,,,
+4,subject_51,0,4,rotate,Rotation.png,,,
+5,subject_51,0,5,feet,Feet.jpg,,,
